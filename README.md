@@ -859,8 +859,6 @@ https://bt5.nthangi.id.vn
 Nếu web vẫn chạy, việc backup và khôi phục thành công.
 
 ---
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb799ef7-4445-48e2-8a0f-0f93bcfac84e" />
-
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac40490c-27cd-40de-9ee7-a9bb8ad168b2" />
 
