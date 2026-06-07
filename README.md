@@ -820,6 +820,7 @@ ls -lh bt5-monitor-backup.tar.gz
 ```
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/858d6eb9-6dcf-4075-a6f6-294605f6b73a" />
 
 ## 15. Xoá container và khôi phục
 
@@ -841,6 +842,7 @@ Khôi phục hệ thống:
 ```bash
 docker compose up -d
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd06e7ea-d875-4ec2-9e2b-95f722a5f5e6" />
 
 Kiểm tra:
 
@@ -857,7 +859,10 @@ https://bt5.nthangi.id.vn
 Nếu web vẫn chạy, việc backup và khôi phục thành công.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb799ef7-4445-48e2-8a0f-0f93bcfac84e" />
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac40490c-27cd-40de-9ee7-a9bb8ad168b2" />
 
 # Kết luận
 
